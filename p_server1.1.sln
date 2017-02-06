@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p_server1.1", "p_server1.1\p_server1.1.csproj", "{C60A540D-BACB-497E-90C7-E4BAC637B73B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTcpListener", "p_server1.1\MyTcpListener.csproj", "{C60A540D-BACB-497E-90C7-E4BAC637B73B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

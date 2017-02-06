@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace p_server1._1
+namespace MyTcpListener
 {
     class Program
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+                TCPServer.SServer();
+            }
+            
         }
     }
 }
